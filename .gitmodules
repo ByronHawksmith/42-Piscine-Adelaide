@@ -25,3 +25,6 @@
 [submodule "C-08"]
 	path = C-08
 	url = git@github.com:ByronHawksmith/C-08.git
+[submodule "Rush-00"]
+	path = Rush-00
+	url = git@github.com:ByronHawksmith/Rush-00
