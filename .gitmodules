@@ -1,0 +1,27 @@
+[submodule "C-00"]
+	path = C-00
+	url = git@github.com:ByronHawksmith/C-00.git
+[submodule "C-01"]
+	path = C-01
+	url = git@github.com:ByronHawksmith/C-01.git
+[submodule "C-02"]
+	path = C-02
+	url = git@github.com:ByronHawksmith/C-02.git
+[submodule "C-03"]
+	path = C-03
+	url = git@github.com:ByronHawksmith/C-03.git
+[submodule "C-04"]
+	path = C-04
+	url = git@github.com:ByronHawksmith/C-04.git
+[submodule "C-05"]
+	path = C-05
+	url = git@github.com:ByronHawksmith/C-05.git
+[submodule "C-06"]
+	path = C-06
+	url = git@github.com:ByronHawksmith/C-06.git
+[submodule "C-07"]
+	path = C-07
+	url = git@github.com:ByronHawksmith/C-07.git
+[submodule "C-08"]
+	path = C-08
+	url = git@github.com:ByronHawksmith/C-08.git
