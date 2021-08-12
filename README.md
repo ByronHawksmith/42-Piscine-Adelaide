@@ -42,3 +42,6 @@ ex00: OK | ex01: OK | ex02: OK | ex03: SIGABORT | ex04: Nothing turned in | ex05
 **2 Submissions (100/100)**
 
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+
+# Rush-00
+**(120/100)**
